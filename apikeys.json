@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "axial-chemist-434502-p7",
+  "private_key_id": "a8c2f24ce44f4d397fb8538e82a61141ec02d63e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDTWAFvFnCByW4r\nj5IKMh6Ue+cuAwXEWsTwZeI/airRxhqKUkc+HOdp4iWQfFfxBsG6UPOnGdo5lP9y\ndKoSUlg5JzzW9g9sl4UdbQuKpOjEGx9pcM6wq4o0R7OrnWIcKaWqqBClvj0UqwHd\nsbKR06P9LUFO4+QcN7+Ix2U8wlEaLGpdTpNRkzUR2YN+y0+GCLJtluTb284KLvpG\n3YT5r4EVUYT9Oo5zwA74xgPJAy/ar1RdznoGQPeXVgKTut/WSujJTIFQ0dNgqZpB\nqf+RZBYpRouq+TDiYbSpHd1yFgO8s4kB8q5mBqx27X1Tj9Y7APHgmyYcQiAOR5Zs\n1BgxtxoBAgMBAAECggEAWNKCW8VDCJD3L/CZkJZq2r3ONbzIdjMt1NkFAuDkWSCY\ns+yLi5PLQGlunzBbJ23PCraOCHsph4zS5TAZ8DRSZsbSX4eviNSPegQD10OinhTG\nGWLzQzX9EibWYLh27N4mBbi3smjnM+IBGULfCUG5CKU17umBS8i0Q1CGAEisnEIt\n9DJ4kcXmESyt6HmGJbOfVGkH7W6Tw6ouompgG36USKl0ObnW9s03lP+kZ93IIxN0\ntG1LLjP+YsoCdcdaJui0Hd5TLGB0kR/IRRqBBc8hNrXUmMsmlxP2RMfCFg9fShdj\nr20aiWb5BwtphKt4299IV2SmRZgnHwyCN+QXfygwPwKBgQDrSNPTeZeikFHfIppd\nYKcVOMxzK/WnYVTt0j1AaCRU0vLzScLOK/QWIICSKhSKCf6OiJ8RwgstdQ2P3iuP\nldy2WL96CW3IkJVtjG8oGGtYhDsbwmlTg84WPG9tCYWlrEsCFMYAKjwSxjtdBMKh\ncOX8FpnKLPLNQ1QzXMxnG/9SZwKBgQDl85GaEHqcBwN5nSG4dVMRbXbx3vrOU/6W\nNiFnZCOJsYmSGCme5fnt4n0FQLj4+5LvaFtxb3W+UqD0y6K/qm3+CFaNusi5ZwtY\nkIdF3k6UM9ffqItovcdQzzrEW2h6MaOEFre/jIgb4/gHWgPuae9ZTp9UZRDZYzlh\nae6Jmsd/VwKBgQDNXkAm8pc8uiP8VEPRBbBRgcZTMSe29eofu8bjFQPBVm/hk5yK\nQStItQ4Eht5urtKWrwHJikofX3B7Bz2WkwSX1VcsulYtHqaPfGj54nawSJsfW857\nqyyTlCTeU9VoCr9eDavWMQdGi+j9BE6ug9D6/O833YwBRqeUPYfc6D8wOQKBgQDk\nmNmzPhSVjcdfm9zM4h29YoPveUr92LRroc5dWUiW9t6bVNfzdg6a9SByG2CHbJkq\n1SSqxTJZDQ2jrdjSD1yfQKzC4t/uqEi4N52y0IhvfoZpesV0T82YQRrb3z8i0rwK\ncQckLlGU4HFO5aao2bkuoCF2pa41XhXKCKQxOaR/qwKBgQCD2T6RtOAWYlqU7yz6\nNRNwvc8usvI3DxK0y450b/8LXYa1Uh30uk1zh8rV61bLt+QsoD52RKJN1DI2WyPH\nuIHXXxlIWnpkqCI8smgxbRBW4MRmAL/MMLUrT2jMPAFQQ7+MvmtCAMOpiEQ7PNi8\nTUhLYA0QDk1weZCJKIaE5lPFjw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "user-1@axial-chemist-434502-p7.iam.gserviceaccount.com",
+  "client_id": "100147425404087480240",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/user-1%40axial-chemist-434502-p7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
